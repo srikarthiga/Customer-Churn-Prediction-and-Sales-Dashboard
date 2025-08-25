@@ -1,0 +1,11 @@
+customer_id,name,age,gender,region,subscription_tenure_months,churn_flag
+1,Alice,28,Female,North,12,0
+2,Bob,35,Male,South,6,1
+3,Charlie,42,Male,West,24,0
+4,Diana,30,Female,East,8,1
+5,Edward,50,Male,North,36,0
+6,Fiona,26,Female,South,4,1
+7,George,33,Male,West,18,0
+8,Hannah,40,Female,East,20,0
+9,Ian,29,Male,North,10,1
+10,Julia,38,Female,South,15,0
